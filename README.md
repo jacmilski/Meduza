@@ -14,7 +14,7 @@
 3. [x] Git Must Know  
    1. [x] Tworzymy pierwszy projekt w Github  
    2. [x] Git commit - pierwsze zmiany w repo
-   3. [ ] Markdown - Nasz plik README.md    
+   3. [x] Markdown - Nasz plik README.md    
 
 ## Powiązane kursy
 
