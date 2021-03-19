@@ -18,7 +18,8 @@
    3. [x] Markdown - Nasz plik README.md  
    4. [x] .gitignore  
    5. [x] Windows command line git  
-   6. [ ] Github branch
+   6. [x] Github branch  
+   7. [x] Merge Request  
 
 ## Powiązane kursy
 
