@@ -1,8 +1,9 @@
 ![alt strefakursow.pl](https://strefakursow.pl/redesign/assets/images/logo/logo-header-new.svg "Strefa Kursów Szkolenia Online")
 # Meduza
 **Opis** Jest to repozytorium powiązane z kursem na stronie Strefa Kursów dostępna pod tym [adresem](https://example.strefakursow.pl) 
-
+=====
 ## Nasza Check lista do kursu
+
 
 1. [x] Wprowadzenie  
    1. [x] Wstęp  
