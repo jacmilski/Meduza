@@ -20,7 +20,9 @@
    5. [x] Windows command line git  
    6. [x] Github branch  
    7. [x] Merge Request  
-   8. [ ] Staging i commiting w Web IDE    
+   8. [x] Staging i commiting w Web IDE  
+4. [ ] Git pull, commit, push, Tags, merging and reverting  
+   1. [ ] Git pull i commit  
 
 ## Powiązane kursy
 
