@@ -20,6 +20,7 @@
    5. [x] Windows command line git  
    6. [x] Github branch  
    7. [x] Merge Request  
+   8. [ ] Staging i commiting w Web IDE    
 
 ## Powiązane kursy
 
