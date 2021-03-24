@@ -24,7 +24,9 @@
 4. [x] Git pull, commit, push, Tags, merging and reverting  
    1. [x] Git pull i commit  
    2. [x] Używanie tagów  
-   3. [x] Używanie branches (branch)
+   3. [x] Używanie branches (branch)  
+   4. [x] Git Push Tags  
+   5. [x] Merging Branches
 
 ## Powiązane kursy
 
