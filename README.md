@@ -21,8 +21,10 @@
    6. [x] Github branch  
    7. [x] Merge Request  
    8. [x] Staging i commiting w Web IDE  
-4. [ ] Git pull, commit, push, Tags, merging and reverting  
-   1. [ ] Git pull i commit  
+4. [x] Git pull, commit, push, Tags, merging and reverting  
+   1. [x] Git pull i commit  
+   2. [x] Używanie tagów  
+   3. [x] Używanie branches (branch)
 
 ## Powiązane kursy
 
