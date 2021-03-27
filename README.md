@@ -33,3 +33,4 @@
 | NAZWA KURSU | ADRES URL | POZIOM KURSU |
 | ----------- | --------- | ------------ |  
 | Dobre praktyki pracy w zespole | https://strefakursow.pl/kursy/rozwoj_osobisty/dobre_praktyki_pracy_w_zespole.html | Średniozaawansowany |
+6-956-6239-2095
