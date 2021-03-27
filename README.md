@@ -28,7 +28,8 @@
    4. [x] Git Push Tags  
    5. [x] Merging Branches  
    6. [x] Rebasing  
-   7. [x] Reverting a commit - odwracanie zmian
+   7. [x] Reverting a commit - odwracanie zmian  
+   8. [x] komenda diff
 
 ## Powiązane kursy
 
