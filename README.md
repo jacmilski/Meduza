@@ -30,8 +30,12 @@
    6. [x] Rebasing  
    7. [x] Reverting a commit - odwracanie zmian  
    8. [x] komenda diff
+<<<<<<< HEAD
 5. [ ] Branch Managment
    1. [x] Force Push na zdalne repozytorium
+=======
+   9. [x] Podstawowe komendy systemu linux
+>>>>>>> 7b32cc7e89c5bf8d45380247fb8bb2d78b2e3ca0
 
 ## Powiązane kursy
 
