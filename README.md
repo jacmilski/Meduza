@@ -30,6 +30,7 @@
    6. [x] Rebasing  
    7. [x] Reverting a commit - odwracanie zmian  
    8. [x] komenda diff
+   9. [x] Podstawowe komendy systemu linux
 
 ## Powiązane kursy
 
