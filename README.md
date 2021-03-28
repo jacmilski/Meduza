@@ -30,6 +30,8 @@
    6. [x] Rebasing  
    7. [x] Reverting a commit - odwracanie zmian  
    8. [x] komenda diff
+5. [ ] Branch Managment
+   1. [x] Force Push na zdalne repozytorium
 
 ## Powiązane kursy
 
